@@ -1,1 +1,1 @@
-# OOP-Laboratoriski
+# OOP-Laboratoriski-Vezbi
